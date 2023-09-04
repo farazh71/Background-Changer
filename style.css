@@ -1,0 +1,40 @@
+body {
+  padding: 50px 100px;
+}
+h1 {
+  text-decoration: underline;
+  text-align: center;
+}
+img {
+  width: 100%;
+}
+p {
+  font-size: 20px;
+  text-align: justify;
+}
+.btn {
+  height: 20px;
+  width: 20px;
+  border-radius: 50%;
+  display: inline-block;
+  border: 1px solid grey;
+  cursor: pointer;
+}
+#white {
+  background-color: white;
+}
+#red {
+  background-color: red;
+}
+#blue {
+  background-color: blue;
+}
+#green {
+  background-color: green;
+}
+#black {
+  background-color: black;
+}
+#color-picker {
+  text-align: right;
+}
